@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on IoT-based projects using Raspberry Pi, ESP8266, ESP32 and Node-RED.<br><br>I'm looking to collaborate on Open Source, IoT and Software Development projects.<br><br>I'm looking for help with Backend Development and Cloud integration for IoT applications.<br><br>I'm currently learning Data Structures & Algorithms, Java, Backend Development and System Design.<br><br>Ask me about Java, Python, C++, IoT, Raspberry Pi, Arduino, ESP8266, ESP32, MQTT .<br><br> I enjoy building real-world IoT solutions and solving coding challenges .
+I'm currently working on IoT-based projects using Raspberry Pi, ESP8266, ESP32 and Node-RED.<br>I'm looking to collaborate on Open Source, IoT and Software Development projects.<br>I'm looking for help with Backend Development and Cloud integration for IoT applications.<br>I'm currently learning Data Structures & Algorithms, Java, Backend Development and System Design.<br>Ask me about Java, Python, C++, IoT, Raspberry Pi, Arduino, ESP8266, ESP32, MQTT .<br> I enjoy building real-world IoT solutions and solving coding challenges .
 
 
 ## 🌐 Socials:
