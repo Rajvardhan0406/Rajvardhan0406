@@ -1,23 +1,23 @@
-# Hi 👋, I'm Raj Vardhan
+# Hi , I'm Raj Vardhan
 
-### 🚀 B.Tech CSE (IoT) Student | IoT Developer | Backend Learner | Problem Solver
+B.Tech CSE (IoT) Student | IoT Developer | Backend Learner | Problem Solver
 
 Passionate about building real-world IoT solutions and continuously improving my software development skills. I enjoy developing smart systems, exploring backend technologies, and solving Data Structures & Algorithms problems.
 
 ---
 
-## 💫 About Me
+# About Me
 
-- 🌱 Currently learning **Java, Backend Development, System Design, and Data Structures & Algorithms**
-- 🔭 Working on **IoT projects using Raspberry Pi, ESP8266, ESP32, Node-RED, MQTT, and Arduino**
-- 🤝 Looking to collaborate on **Open Source, IoT, and Backend Development projects**
-- ☁️ Exploring **Cloud integration for IoT applications**
-- 💻 Solving coding challenges regularly on **LeetCode**
-- 🎯 Goal: Become a Software Engineer specializing in Backend Development and IoT
+- Currently learning **Java, Backend Development, System Design, and Data Structures & Algorithms**
+- Working on **IoT projects using Raspberry Pi, ESP8266, ESP32, Node-RED, MQTT, and Arduino**
+- Looking to collaborate on **Open Source, IoT, and Backend Development projects**
+- Exploring **Cloud integration for IoT applications**
+- Solving coding challenges regularly on **LeetCode**
+- Goal: Become a Software Engineer specializing in Backend Development and IoT
 
 ---
 
-## 🌐 Connect with Me
+# Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raj-vardhan-87a1ab385)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vraj35415@gmail.com)
@@ -25,7 +25,7 @@ Passionate about building real-world IoT solutions and continuously improving my
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -59,7 +59,7 @@ Passionate about building real-world IoT solutions and continuously improving my
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Rajvardhan0406&show_icons=true&theme=github_dark&hide_border=true)
 
@@ -69,22 +69,22 @@ Passionate about building real-world IoT solutions and continuously improving my
 
 ---
 
-# 📈 Contribution Graph
+#  Contribution Graph
 
 [![Raj Vardhan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rajvardhan0406&theme=github-dark)](https://github.com/Rajvardhan0406)
 
 ---
 
-# 🎯 Current Focus
+#  Current Focus
 
-- 📚 Data Structures & Algorithms
-- ☕ Java Development
-- ⚙️ Backend Development
-- ☁️ Cloud for IoT
-- 🏆 Consistent LeetCode Practice
+-  Data Structures & Algorithms
+-  Java Development
+-  Backend Development
+-  Cloud for IoT
+-  Consistent LeetCode Practice
 
 ---
 
 ![](https://komarev.com/ghpvc/?username=Rajvardhan0406&style=for-the-badge&color=blue)
 
-> **"Consistency is the key to mastery. Keep learning, keep building." 🚀**
+> **"Consistency is the key to mastery. Keep learning, keep building." **
