@@ -8,7 +8,7 @@ Passionate about building real-world IoT solutions and continuously improving my
 
 # About Me
 
-- Currently learning **Java, Backend Development, System Design, and Data Structures & Algorithms**
+- Currently learning **Python, Backend Development, System Design, and Data Structures & Algorithms**
 - Working on **IoT projects using Raspberry Pi, ESP8266, ESP32, Node-RED, MQTT, and Arduino**
 - Looking to collaborate on **Open Source, IoT, and Backend Development projects**
 - Exploring **Cloud integration for IoT applications**
