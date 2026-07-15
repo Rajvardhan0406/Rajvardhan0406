@@ -78,7 +78,7 @@ Passionate about building real-world IoT solutions and continuously improving my
 #  Current Focus
 
 -  Data Structures & Algorithms
--  Java Development
+-  Python Development
 -  Backend Development
 -  Cloud for IoT
 -  Consistent LeetCode Practice
